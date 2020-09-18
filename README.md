@@ -24,5 +24,16 @@ Offline Version:
 <script src="h-videojs/h-player.js">
 ```
 
+## Todo
+- Add caption/subtitle support (coming soon)
+- Add picture-in-picture mode
+
+# Features
+- Saves volume in browser cache (Cookies)
+- Easy to use video player
+- Blob url setting
+- Customizable player controls
+- User friendly experience
+
 ## License
 **[MIT](https://choosealicense.com/licenses/mit/)** &copy; **HiOctane**

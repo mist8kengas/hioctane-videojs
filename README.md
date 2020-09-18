@@ -24,6 +24,9 @@ Offline Version:
 <script src="h-videojs/h-player.js">
 ```
 
+## Dependencies
+- (none)
+
 ## Todo
 - Add caption/subtitle support (coming soon)
 - Add picture-in-picture mode

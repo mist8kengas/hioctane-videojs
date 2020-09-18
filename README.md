@@ -21,7 +21,7 @@ Offline Version:
 ```html
 <!-- HiOctane VideoJS Offline Version -->
 <link rel="stylesheet" href="h-videojs/h-player.css">
-<script src="h-videojs/h-player.js">
+<script src="h-videojs/h-player.js"></script>
 ```
 
 ## Dependencies

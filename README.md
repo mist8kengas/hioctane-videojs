@@ -1,7 +1,7 @@
 # HiOctane VideoJS 
 **HiOctane VideoJS** is a Javascript video player for HTML5
 
-Current Version: **1.0.0**
+Current Version **1.0.0**
 
 
 ## Installation

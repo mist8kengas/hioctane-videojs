@@ -31,7 +31,7 @@ Offline Version:
 - Add caption/subtitle support (coming soon)
 - Add picture-in-picture mode
 
-# Features
+## Features
 - Saves volume setting in browser cache (Cookies)
 - Easy to use video player
 - Blob url setting

@@ -32,7 +32,7 @@ Offline Version:
 - Add picture-in-picture mode
 
 # Features
-- Saves volume in browser cache (Cookies)
+- Saves volume setting in browser cache (Cookies)
 - Easy to use video player
 - Blob url setting
 - Customizable player controls

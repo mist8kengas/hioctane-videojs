@@ -38,5 +38,8 @@ Offline Version:
 - Customizable player controls
 - User friendly experience
 
+## Example
+- You can find a public demo of the video player being used [here](https://videojs.hioctane.org/example).
+
 ## License
 **[MIT](https://choosealicense.com/licenses/mit/)** &copy; **HiOctane**

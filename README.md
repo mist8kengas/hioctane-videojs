@@ -5,7 +5,7 @@ Current Version **1.0.0**
 
 
 ## Installation
-Use the public distribution version or download the [latest version](https://github.com/mist8kengas/hioctane-videojs/releases/tag/release) and add the **h-videojs** folder to your HTML webpage.
+Use the public distribution version or download the [latest version](https://github.com/mist8kengas/hioctane-videojs/releases/latest) and add the **h-videojs** folder to your HTML webpage.
 
 ## Usage
 Add `id="h-video" class="h-video"` to your `<video>` element and add the following in your HTML page:
@@ -24,8 +24,17 @@ Offline Version:
 <script src="h-videojs/h-player.js"></script>
 ```
 
+**(We do not provide support/help with older versions than the current version)**
+
 ## Dependencies
 - (none)
+
+## (Known) Supported Browsers
+- Google Chrome
+- Mozilla FIrefox
+- Internet Explorer (Tested IE8)
+- Microsoft Edge
+- Safari
 
 ## Todo
 - Add caption/subtitle support (coming soon)

@@ -39,11 +39,11 @@ Offline Version:
 ## Todo
 - Add caption/subtitle support (coming soon)
 - Add picture-in-picture mode
+- Blob url setting
 
 ## Features
 - Saves volume setting in browser cache (Cookies)
 - Easy to use video player
-- Blob url setting
 - Customizable player controls
 - User friendly experience
 
